@@ -1,0 +1,8 @@
+
+.env*
+!.env.vault
+
+*.log
+
+.flaskenv*
+!.env.project
